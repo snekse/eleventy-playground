@@ -1,0 +1,12 @@
+{
+  "name": "eleventy-playground",
+  "version": "0.0.1",
+  "description": "Just playing around with 11ty",
+  "main": "index.html",
+  "repository": "git@github.com:snekse/eleventy-playground.git",
+  "author": "Derek Eskens",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.5.3"
+  }
+}
