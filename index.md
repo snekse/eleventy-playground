@@ -4,3 +4,4 @@ _Welcome to Eleventy_
 
 - Fast
 - Small
+- New
